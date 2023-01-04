@@ -15,7 +15,7 @@ html {
 }
 
 body {
-    background: black url(../back-phone.jpg) no-repeat;
+    background: black url(../imagens/back-phone.jpg) no-repeat;
     background-size: cover;
     background-position: center center;
 }
@@ -43,6 +43,6 @@ img {
 
 img#phone {display: none;}
 img#table {display: none;}
-img#print {display: none;}
+img#print {display: block;}
 img#pc {display: none;}
 img#tv {display: none;}
