@@ -15,9 +15,18 @@ header {
     padding: 10px;
     text-align: center;
 }
+span#burguer {
+    display: block;
+    text-align: center;
+    cursor: pointer;
+}
+
+span#burguer:hover{
+    color: black;
+}
 
 menu {
-    display: block;
+    display: none;
 }
 
 menu ul {
